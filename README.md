@@ -7,4 +7,4 @@ The GUI is styled using the ttk module, which provides more modern-looking widge
 
 The code also includes a function called "update_rpc", which updates the Discord Rich Presence information for the user. The function is called whenever an arithmetic operation is performed, and it updates the user's Discord status to show that they are performing a calculation.
 
-Finally, the code initializes the Discord RPC client and connects to it, and it calls the "update_rpc" function once to update the initial status. The client ID for the Discord application is defined in the code as '1234'.
+Finally, the code initializes the Discord RPC client and connects to it, and it calls the "update_rpc" function once to update the initial status. The client ID for the Discord application is defined in the code as 'use your own lolllll'.
